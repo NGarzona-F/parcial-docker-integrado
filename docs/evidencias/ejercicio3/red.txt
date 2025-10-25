@@ -1,0 +1,1 @@
+8422ac7665be   parcial-docker-integrado_app_net   bridge    local

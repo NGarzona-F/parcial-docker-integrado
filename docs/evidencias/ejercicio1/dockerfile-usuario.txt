@@ -1,0 +1,2 @@
+    adduser -S nextjs -u 1001
+USER nextjs

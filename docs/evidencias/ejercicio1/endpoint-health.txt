@@ -1,0 +1,1 @@
+{"status":"OK","service":"parcial-api","database":"connected","timestamp":"2025-10-25T01:36:39.820Z"}

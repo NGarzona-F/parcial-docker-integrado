@@ -1,0 +1,5 @@
+ id |             nombre              | expediente | codigo_estudiantil |       fecha_creacion       
+----+---------------------------------+------------+--------------------+----------------------------
+  2 | Nestor Alexander Flores Garzona | 25845      | FG22-I04-001       | 2025-10-25 01:29:49.210758
+(1 row)
+

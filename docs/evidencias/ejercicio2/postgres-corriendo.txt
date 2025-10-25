@@ -1,0 +1,1 @@
+parcial-db    postgres:15-alpine             "docker-entrypoint.s…"   db        18 minutes ago   Up 18 minutes (healthy)   0.0.0.0:5432->5432/tcp, [::]:5432->5432/tcp
