@@ -45,3 +45,10 @@
 - API: http://localhost:3000/
 - Health Check: http://localhost:3000/health
 - Repositorio: https://github.com/NGarzona-F/parcial-docker-integrado
+
+## Capturas de Evidencia
+
+1. **Terminal con servicios corriendo:** `docs/capturas/Ejercicio1.jpg`
+2. **Endpoint con datos personales:** `docs/capturas/Ejercicio2.jpg`  
+3. **Health check funcionando:** `docs/capturas/Ejercicio3.jpg`
+4. **Repositorio GitHub:** `git.jpg`
